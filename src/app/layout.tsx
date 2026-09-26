@@ -32,6 +32,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr" className="scroll-smooth">
+      <head>
+        <meta
+          name="google-site-verification"
+          content="EdNm1Cj1KjtSj9uEj9WM0PtjqqTqDB-fnjW-MPT5-tk"
+        />
+      </head>
       <body className="min-h-screen flex flex-col bg-white text-slate-900">
         <Navbar />
         <main className="flex-1">{children}</main>
