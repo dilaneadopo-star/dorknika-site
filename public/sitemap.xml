@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dorknika.com/</loc>
+    <loc>https://dorknika-site.vercel.app/</loc>
     <lastmod>2026-09-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dorknika.com/excel-pack</loc>
+    <loc>https://dorknika-site.vercel.app/excel-pack</loc>
     <lastmod>2026-09-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://dorknika.com/formations</loc>
+    <loc>https://dorknika-site.vercel.app/formations</loc>
     <lastmod>2026-09-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dorknika.com/boutique</loc>
+    <loc>https://dorknika-site.vercel.app/boutique</loc>
     <lastmod>2026-09-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dorknika.com/a-propos</loc>
+    <loc>https://dorknika-site.vercel.app/a-propos</loc>
     <lastmod>2026-09-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dorknika.com/faq</loc>
+    <loc>https://dorknika-site.vercel.app/faq</loc>
     <lastmod>2026-09-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dorknika.com/contact</loc>
+    <loc>https://dorknika-site.vercel.app/contact</loc>
     <lastmod>2026-09-26</lastmod>
     <priority>0.7</priority>
   </url>
