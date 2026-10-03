@@ -33,6 +33,7 @@ export const SITE_CONFIG = {
     { name: "Accueil", href: "/" },
     { name: "Excel Pack", href: "/excel-pack" },
     { name: "Formations", href: "/formations" },
+    { name: "Ressources Excel", href: "/ressources-excel" },
     { name: "Boutique", href: "/boutique" },
     { name: "À propos", href: "/a-propos" },
     { name: "FAQ", href: "/faq" },
